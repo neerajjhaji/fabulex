@@ -1,0 +1,19 @@
+# Fab Luxe — SEO & Social Media Strategy
+
+Production-ready SEO and social-media strategy assets for **[fabluxe.co.in](https://fabluxe.co.in)** — luxury apartments & interior execution, Greater Noida West.
+
+## Contents
+
+| File | Description |
+|---|---|
+| [`SEO_SOCIAL_STRATEGY.md`](SEO_SOCIAL_STRATEGY.md) | Full technical playbook — meta-tag templates, Open Graph / Twitter Cards, canonical & redirect rules, JSON-LD schema blocks, sitemap & robots.txt, Core Web Vitals blueprint, social distribution plan, and validation scripts. |
+| [`FabLuxe_SEO_Social_Strategy.pptx`](FabLuxe_SEO_Social_Strategy.pptx) | 14-slide executive presentation covering the plan, four-layer architecture, and step-by-step execution. |
+
+## How to use
+
+1. Open `SEO_SOCIAL_STRATEGY.md` and replace every `{{PLACEHOLDER}}` (phone, address, geo-coordinates, social URLs, prices) with real values — search the file for `{{`.
+2. Deploy the metadata, Open Graph, and JSON-LD snippets per page type.
+3. Ship `robots.txt` + `sitemap.xml`, submit in Google Search Console.
+4. Run the validation scripts (Bash / PowerShell) in Section 4 before launch.
+
+> **Compliance:** display the valid UP-RERA registration number and disclaimer on every project page; keep any pricing/area in schema RERA-accurate.
