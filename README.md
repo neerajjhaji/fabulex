@@ -9,6 +9,7 @@ Production-ready SEO and social-media strategy assets for **[fabluxe.co.in](http
 | [`SEO_SOCIAL_STRATEGY.md`](SEO_SOCIAL_STRATEGY.md) | Full technical playbook — meta-tag templates, Open Graph / Twitter Cards, canonical & redirect rules, JSON-LD schema blocks, sitemap & robots.txt, Core Web Vitals blueprint, social distribution plan, and validation scripts. |
 | [`SOCIAL_INTEGRATION_AUTOMATION.md`](SOCIAL_INTEGRATION_AUTOMATION.md) | Integration & marketing-automation plan — WhatsApp / Facebook / Instagram / Threads setup, automation approaches (n8n vs Zapier vs Make vs native), ready-to-build workflows, paid-ads architecture, enablement checklist, and rollout roadmap. |
 | [`FabLuxe_SEO_Social_Strategy.pptx`](FabLuxe_SEO_Social_Strategy.pptx) | 25-slide executive presentation — high-level architecture, Part I: SEO plan & execution, Part II: integration & automation. Branded on every slide. |
+| [`FabLuxe_Digital_Marketing_Strategy.pptx`](FabLuxe_Digital_Marketing_Strategy.pptx) | 5-slide client-ready deck — lead-generation funnel, services & deliverables, our approach & delivery model, and the 90-day timeline with KPIs. |
 
 ## How to use
 
